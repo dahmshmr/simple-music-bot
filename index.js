@@ -53,5 +53,5 @@ message.member.voice.channel.leave()
 }) 
 client.config = require('./config/bot.json');
 client.commands = new Discord.Collection();
-client.login(process.env.token)//bot token :D
+client.login(process.env.token)//bot token : ODIyNjQyNjk4MTY2MzM3NTg2.YFVPtw.oGdp7_wQMNpP7-MO9K8bQ6RwGzQ
                                 
